@@ -1,9 +1,9 @@
 # CloudUploader CLI
-A bash-based CLI tool that allows you to quickly upload files to AWS S3, Azure Blob Storage, and Google Cloud Storage (GCP). The tool supports concurrent multi-file uploads with error handling and progress bars, making it ideal for managing large batches of files.
+A bash-based CLI tool that allows you to quickly upload files to AWS S3, Azure Blob Storage, and Google Cloud Storage (GCP). The tool supports concurrent file uploads with error handling and progress bars, making it ideal for managing large batches of files.
 
 ## Features
 * Upload files to AWS S3, Azure Blob Storage, and Google Cloud Storage <br/>
-* Synchronize multiple files in a single command <br/>
+* Concurrently upload multiple files in a single command <br/>
 * Real-time progress bars for each file upload <br/>
 * Error handling and logging for reliable performance <br/>
 
